@@ -2,7 +2,7 @@
 
 ### Initial Sync makes 349 request[^5]
 Most of the requests are unnecessary. Initial request should be limited to $metadata and minimum amount of fields to show default objects on the map.
-![ScreenShot](Images/DefaultObjects.png).
+![ScreenShot](DefaultObjects.png).
 
 
 ### Excessive use of Login[^1]
@@ -17,7 +17,7 @@ Requests for the actual data, requests the entire record without the regard for 
 
 ### Incorect OData json when creating items in mapsly
 Mapsly offers an ability to create records by right clicking anywhere on the map, however every single one fails.
-![ScreenShot1](Images/CreateContact.png)
+![ScreenShot1](CreateContact.png)
 
 The source of error is incorrect data transfered to creatio. 
 ```json
