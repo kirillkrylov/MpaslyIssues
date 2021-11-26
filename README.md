@@ -1,6 +1,6 @@
 ## Issues
 
-## Creatio Admin credentials
+### Creatio Admin credentials
 Installation guide recommends the use of Admin credentials. Creatio recomendation is **NEVER** to use Admin credentials.
 ![ScreenShot](admin.png).
 
