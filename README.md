@@ -1,4 +1,3 @@
-[TOC]
 ## Issues
 
 ### Initial Sync makes 349 request[^5]
