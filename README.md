@@ -1,5 +1,10 @@
 ## Issues
 
+## Creatio Admin credentials
+Installation guide recommends the use of Admin credentials. Creatio recomendation is **NEVER** to use Admin credentials.
+![ScreenShot](admin.png).
+
+
 ### Initial Sync makes 349 request[^5]
 Most of the requests are unnecessary. Initial request should be limited to $metadata and minimum amount of fields to show default objects on the map.
 ![ScreenShot](DefaultObjects.png).
